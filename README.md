@@ -54,18 +54,6 @@ Pandas – Data manipulation.
 Google Maps API – Distance and route analysis.
 Power BI – Interactive dashboards and visualization.
 
-### Dashboard Preview
-
-Add your Power BI dashboard screenshot below:
-<img width="1517" height="853" alt="Screenshot 2026-10-20 133536" src="https://github.com/user-attachments/assets/2e26de95-2757-44e1-8ff8-e533c5142614" />
-<img width="1526" height="857" alt="Screenshot 2026-10-20 133635" src="https://github.com/user-attachments/assets/3e969b09-5dbd-4c34-880d-3e9dc8a3b6cc" />
-<img width="1528" height="863" alt="Screenshot 2026-10-20 133728" src="https://github.com/user-attachments/assets/42ed0ce0-e262-4faf-9eea-fa95c7b5c438" />
-<img width="1522" height="857" alt="Screenshot 2026-10-20 133744" src="https://github.com/user-attachments/assets/f4bba9b5-f5b8-4901-b647-b39717f1f4ba" />
-
-`[Power BI Dashboard](images/dashboard.png)`
-
-*Replace the image path with the actual screenshot location in your repository.*
-
 
 ## 7. Expected Outcomes
 Reduced transportation expenses.
